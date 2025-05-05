@@ -1,0 +1,8 @@
+{
+    "name": "Pondmeet",
+    "short_name": "Pondmeet",
+    "start_url": "https://pondmeet.com/",
+    "display": "standalone",
+    "background_color": "#111",
+    "theme_color": "#eee"
+  }
